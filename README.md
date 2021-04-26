@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-ReileyB
 
-On Heroku: https://jpa03-ReileyB.herokuapp.com
+On Heroku: https://jpa03-reileybatelaan.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-ReileyB
 
